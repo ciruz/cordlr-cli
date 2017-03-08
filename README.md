@@ -44,9 +44,11 @@ After that create a folder containing a `package.json` for cordlr-package instal
 }
 ```
 
-For more advanced installation guides check the [setup documentation](docs/setup.md)
+For more advanced installation guides check the [getting started documentation](docs/getting-started.md)
 
 For more configuration guides check the [configuration documentation](docs/configuration.md)
+
+If you want to know how to write a Cordlr package learn more about that in [package documentation](docs/plugins.md)
 
 ## Documentation
 
