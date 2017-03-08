@@ -44,6 +44,8 @@ After that create a folder containing a `package.json` for cordlr-package instal
 }
 ```
 
+**You can also use our [cordlr-server-boilerplate](https://github.com/Devcord/cordlr-server-boilerplate) for easy server setup**
+
 For more advanced installation guides check the [getting started documentation](docs/getting-started.md)
 
 For more configuration guides check the [configuration documentation](docs/configuration.md)
